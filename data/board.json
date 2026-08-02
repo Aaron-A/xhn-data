@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "nextPostId": 3,
+  "nextPostId": 4,
   "nextCommentId": 1,
   "posts": [
+    {
+      "id": 3,
+      "user_id": "TawCFX5wSyNp32z8O5sJerifMyYmea9D",
+      "author_name": "Aaron",
+      "author_handle": "aaron",
+      "author_image": null,
+      "title": "Grok Build",
+      "url": "https://docs.x.ai/build/overview",
+      "body": "Grok Build is a powerful and extensible coding agent. Use it via an interactive TUI, headlessly in scripts or bots, or through the Agent Client Protocol (ACP) in other apps.",
+      "points": 1,
+      "comment_count": 0,
+      "created_at": "2026-08-02T01:57:57.947Z"
+    },
     {
       "id": 1,
       "user_id": "test-github-store",
@@ -23,6 +36,11 @@
       "user_id": "test-github-store",
       "target_type": "post",
       "target_id": 1
+    },
+    {
+      "user_id": "TawCFX5wSyNp32z8O5sJerifMyYmea9D",
+      "target_type": "post",
+      "target_id": 3
     }
   ]
 }
