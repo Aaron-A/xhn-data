@@ -4,19 +4,6 @@
   "nextCommentId": 1,
   "posts": [
     {
-      "id": 2,
-      "user_id": "MJoW2EyuYNPSXJcnFAlHN4YQkO8CZmep",
-      "author_name": "Aaron",
-      "author_handle": "aaron",
-      "author_image": null,
-      "title": "Getting Started Grok Build",
-      "url": "https://xhackernews.grok.me/submit",
-      "body": "Grok Build is a powerful and extensible coding agent. Use it via an interactive TUI, headlessly in scripts or bots, or through the Agent Client Protocol (ACP) in other apps.",
-      "points": 1,
-      "comment_count": 0,
-      "created_at": "2026-08-02T01:53:11.448Z"
-    },
-    {
       "id": 1,
       "user_id": "test-github-store",
       "author_name": "Aaron",
@@ -36,11 +23,6 @@
       "user_id": "test-github-store",
       "target_type": "post",
       "target_id": 1
-    },
-    {
-      "user_id": "MJoW2EyuYNPSXJcnFAlHN4YQkO8CZmep",
-      "target_type": "post",
-      "target_id": 2
     }
   ]
 }
